@@ -1,0 +1,15 @@
+{
+  "name": "goransaki/translatabletextarea",
+  "description": "translatabletextarea wrapper for yii2",
+  "authors": [
+    {
+      "name": "Goran Sarenac",
+      "email": "goransarenac91@hotmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "goransaki\\translatabletextarea\\": ""
+    }
+  }
+}

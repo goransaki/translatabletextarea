@@ -1,0 +1,11 @@
+.translatable-text-area {
+    padding: 0;
+}
+
+.translatable-text-area .tab-content {
+    padding: 0 !important;
+}
+
+.translatable-text-area span {
+    font-weight: bold;
+}
