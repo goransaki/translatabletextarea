@@ -1,7 +1,0 @@
- <?= $form->field($settingsForm, 'disclaimer')->widget(TranslatableTextArea::className(), [
-            'form' => $form,
-            'languages' => LanguageHelper::getLanguages(),
-            'options' => [
-                'rows' => '7'
-            ],
-        ]) ?>
