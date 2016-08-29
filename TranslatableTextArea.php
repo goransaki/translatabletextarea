@@ -6,7 +6,7 @@
  * Time: 5:11 PM
  */
 
-namespace GoranSaki\translatabletxtarea;
+namespace goransaki\translatabletextarea;
 
 use common\helpers\ArrayHelper;
 use common\helpers\LanguageHelper;
