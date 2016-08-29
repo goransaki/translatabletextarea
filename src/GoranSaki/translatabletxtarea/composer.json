@@ -1,0 +1,8 @@
+{
+    "name": "GoranSaki/translatabletextarea",
+    "autoload": {
+        "psr-4" : {
+            "GoranSaki\\translatabletextarea" : "src"
+        }
+    }
+}
