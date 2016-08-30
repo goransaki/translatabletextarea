@@ -8,8 +8,8 @@
     }
   ],
   "autoload": {
-    "psr-4": {
-      "goransaki\\translatabletextarea": ""
+    "psr-0": {
+      "goransaki\\\\translatabletextarea": ""
     }
   }
 }
