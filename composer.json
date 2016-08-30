@@ -1,6 +1,6 @@
 {
-  "name": "goransaki\translatabletextarea",
-  "description": "translatabletextarea wrapper for yii2",
+  "name": "goran-saki\translatable-text-area",
+  "description": "translatable text area for yii2",
   "authors": [
     {
       "name": "Goran Sarenac",
@@ -9,7 +9,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "goransaki\\translatabletextarea\\": ""
+      "goran-saki\\translatable-text-area\\": ""
     }
   }
 }
