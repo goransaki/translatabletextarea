@@ -6,7 +6,7 @@
  * Time: 3:20 PM
  */
 
-namespace goransaki\translatabletxtarea;
+namespace goran-saki/translatable-text-area;
 
 use yii\web\AssetBundle;
 
