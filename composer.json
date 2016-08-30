@@ -1,5 +1,5 @@
 {
-  "name": "goransaki\translatabletextarea",
+  "name": "goransaki\\translatabletextarea",
   "description": "translatable text area for yii2",
   "authors": [
     {
@@ -9,7 +9,7 @@
   ],
   "autoload": {
     "psr-0": {
-      "goransaki\\\\translatabletextarea": ""
+      "goransaki\\translatabletextarea": ""
     }
   }
 }
