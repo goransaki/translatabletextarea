@@ -26,7 +26,7 @@ class TranslatableTextArea extends InputWidget
     public function run()
     {
         if (!$this->showTabs) {
-            return $this->form->field($this->model, "{$this->attribute}[" . \Yii::$app->sourceLanguage . "}]")->textarea(
+            return $this->form->field($this->model, "{$this->attribute}[" . \Yii::$app->sourceLanguage . "]")->textarea(
                 $this->options)->label(false);
         }
 		
