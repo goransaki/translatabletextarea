@@ -21,8 +21,15 @@ class TranslatableTextArea extends InputWidget
 
     public $options;
 
+    public $showTabs = true;
+
     public function run()
     {
+        if (!$this->showTabs) {
+            return $this->form->field($this->model, "{$this->attribute}[" . \Yii::$app->sourceLanguage . "}]")->textarea(
+                $this->options)->label(false);
+        }
+		
         $this->registerWidgetScript();
 
         return $this->render('index', [
